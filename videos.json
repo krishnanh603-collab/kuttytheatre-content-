@@ -1,0 +1,26 @@
+{
+  "categories": [
+    { "id": "drama", "name": "Drama", "order": 1 },
+    { "id": "comedy", "name": "Comedy", "order": 2 },
+    { "id": "thriller", "name": "Thriller", "order": 3 }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "Thalapathy",
+      "description": "An EMI collection agent, desperate to hit his targets, visits a loan defaulter's house and gets drawn into a tense conversation with a mysterious friend waiting inside.",
+      "videoUrl": "PASTE_WISTIA_ID_OR_LINK_HERE",
+      "thumbnailUrl": "PASTE_BANNER_IMAGE_LINK_HERE",
+      "posterUrl": "PASTE_POSTER_IMAGE_LINK_HERE",
+      "categoryId": "thriller",
+      "durationSeconds": 0,
+      "featured": true,
+      "views": 0,
+      "language": "Tamil",
+      "releaseYear": "2026",
+      "ageRating": "16+, U/A",
+      "director": "S Vignesh Sabari",
+      "cast": "Harish K Krish, Tamilselvan, Shiva"
+    }
+  ]
+}
