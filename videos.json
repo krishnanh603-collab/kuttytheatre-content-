@@ -2,7 +2,7 @@
   "categories": [
     { "id": "drama", "name": "Drama", "order": 1 },
     { "id": "comedy", "name": "Comedy", "order": 2 },
-    { "id": "thriller", "name": "Thriller", "order": 3 }
+    { "id": "thriller", "name": "Thriller", "order": 3 },
     { "id": "mom_son", "name": "Mom & Son Series", "order": 4 }
   ],
   "videos": [
@@ -56,15 +56,15 @@
       "ageRating": "U",
       "director": "Harish K Krish",
       "cast": "Harish K Krish, Devi Prasad, Vinth Selvam"
-    }
-   {
+    },
+    {
       "id": "4",
       "title": "Mom & Son Sothanaigal - 01",
       "description": "A humorous look at the daily dynamics between a mother and son navigating life together during the lockdown.",
       "videoUrl": "x6l4a8thoz",
       "thumbnailUrl": "https://i.ibb.co/N6pvRtxf/Mom-Son-1-Banner.png",
       "posterUrl": "https://i.ibb.co/QF0Q686W/Mom-Son-1-Poster.png",
-      "categoryId": "Mom & Son Series",
+      "categoryId": "mom_son",
       "durationSeconds": 405,
       "featured": true,
       "views": 0,
