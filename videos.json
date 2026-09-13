@@ -24,3 +24,26 @@
     }
   ]
 }
+ "videos": [
+    {
+      "id": "2",
+      "title": "Eppo Kalyanam",
+      "description": "A humorous and heartfelt journey unfolds as an aspiring filmmaker navigates the complications of arranged marriage expectations and long-lost connections.
+
+
+",
+      "videoUrl": "y7xzvfmavi",
+      "thumbnailUrl": "https://i.ibb.co/gbW1gQ9t/Eppo-Kalyanam-Banner.webp",
+      "posterUrl": "https://i.ibb.co/60Gw4cg9/Eppo-Kalynam-Poster.png",
+      "categoryId": "drama",
+      "durationSeconds": 1058,
+      "featured": true,
+      "views": 0,
+      "language": "Tamil",
+      "releaseYear": "2026",
+      "ageRating": "U",
+      "director": "Harish K Krish",
+      "cast": "Harish K Krish, Tamilselvan, Kalaithendral Murugesan, Senthil Kumar, Aadya Krisshna, Sethukavi, Jacky"
+    }
+  ]
+}
