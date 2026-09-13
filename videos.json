@@ -21,7 +21,9 @@
       "releaseYear": "2026",
       "ageRating": "U",
       "director": "R M Abul",
-      "cast": "Harish K Krish, Tamilselvan"
+      "cast": "Harish K Krish, Tamilselvan",
+      "rating": 0,
+      "ratingUrl": "PASTE_PRE_FILLED_FORM_LINK_FOR_EMMADHAMUM"
     },
     {
       "id": "2",
@@ -38,7 +40,9 @@
       "releaseYear": "2026",
       "ageRating": "U",
       "director": "Harish K Krish",
-      "cast": "Harish K Krish, Tamilselvan, Kalaithendral Murugesan, Senthil Kumar, Aadya Krisshna, Sethukavi, Jacky"
+      "cast": "Harish K Krish, Tamilselvan, Kalaithendral Murugesan, Senthil Kumar, Aadya Krisshna, Sethukavi, Jacky",
+      "rating": 0,
+      "ratingUrl": "PASTE_PRE_FILLED_FORM_LINK_FOR_EPPO_KALYANAM"
     },
     {
       "id": "3",
@@ -55,7 +59,9 @@
       "releaseYear": "2020",
       "ageRating": "U",
       "director": "Harish K Krish",
-      "cast": "Harish K Krish, Devi Prasad, Vinth Selvam"
+      "cast": "Harish K Krish, Devi Prasad, Vinth Selvam",
+      "rating": 0,
+      "ratingUrl": "PASTE_PRE_FILLED_FORM_LINK_FOR_AMIGOS"
     },
     {
       "id": "4",
@@ -72,7 +78,9 @@
       "releaseYear": "2020",
       "ageRating": "U",
       "director": "Harish K Krish",
-      "cast": "Harish K Krish, Saraswathy Krishnan"
+      "cast": "Harish K Krish, Saraswathy Krishnan",
+      "rating": 0,
+      "ratingUrl": "PASTE_PRE_FILLED_FORM_LINK_FOR_MOM_SON_01"
     },
     {
       "id": "5",
@@ -89,7 +97,9 @@
       "releaseYear": "2020",
       "ageRating": "U",
       "director": "Harish K Krish",
-      "cast": "Harish K Krish, Saraswathy Krishnan"
+      "cast": "Harish K Krish, Saraswathy Krishnan",
+      "rating": 0,
+      "ratingUrl": "PASTE_PRE_FILLED_FORM_LINK_FOR_MOM_SON_02"
     },
     {
       "id": "6",
@@ -106,7 +116,9 @@
       "releaseYear": "2021",
       "ageRating": "U",
       "director": "Harish K Krish",
-      "cast": "Harish K Krish, Saraswathy Krishnan"
+      "cast": "Harish K Krish, Saraswathy Krishnan",
+      "rating": 8.5,
+      "ratingUrl": "https://form.svhrt.com/6aa65e95788fe1a732e8f443Ep3"
     },
     {
       "id": "7",
@@ -123,7 +135,9 @@
       "releaseYear": "2026",
       "ageRating": "13+ U/A",
       "director": "S Vignes Sabari",
-      "cast": "Harish K Krish, Tamil Selvan, Shiva"
+      "cast": "Harish K Krish, Tamil Selvan, Shiva",
+      "rating": 0,
+      "ratingUrl": "PASTE_PRE_FILLED_FORM_LINK_FOR_THALAPATHY"
     }
   ]
 }
