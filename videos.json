@@ -39,5 +39,22 @@
       "director": "Harish K Krish",
       "cast": "Harish K Krish, Tamilselvan, Kalaithendral Murugesan, Senthil Kumar, Aadya Krisshna, Sethukavi, Jacky"
     }
+     {
+      "id": "3",
+      "title": "Amigos",
+      "description": "The plot of this short film revolves around a casual conversation between three friends that unexpectedly leads to a surprisingly interesting situation.",
+      "videoUrl": "thate4bzmc",
+      "thumbnailUrl": "https://i.ibb.co/h1Fxbj2m/Amigos-Banner.png",
+      "posterUrl": "https://i.ibb.co/1tkX82LM/Amigos-Poster.png",
+      "categoryId": "comedy",
+      "durationSeconds": 226,
+      "featured": true,
+      "views": 0,
+      "language": "Tamil",
+      "releaseYear": "2026",
+      "ageRating": "U",
+      "director": "Harish K Krish",
+      "cast": "Harish K Krish, Devi Prasad, Vinth Selvam"
+    }
   ]
 }
