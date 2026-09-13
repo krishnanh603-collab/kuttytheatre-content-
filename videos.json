@@ -3,6 +3,7 @@
     { "id": "drama", "name": "Drama", "order": 1 },
     { "id": "comedy", "name": "Comedy", "order": 2 },
     { "id": "thriller", "name": "Thriller", "order": 3 }
+    { "id": "mom_son", "name": "Mom & Son Series", "order": 4 }
   ],
   "videos": [
     {
