@@ -7,20 +7,20 @@
   "videos": [
     {
       "id": "1",
-      "title": "Thalapathy",
-      "description": "An EMI collection agent, desperate to hit his targets, visits a loan defaulter's house and gets drawn into a tense conversation with a mysterious friend waiting inside.",
-      "videoUrl": "PASTE_WISTIA_ID_OR_LINK_HERE",
-      "thumbnailUrl": "PASTE_BANNER_IMAGE_LINK_HERE",
-      "posterUrl": "PASTE_POSTER_IMAGE_LINK_HERE",
-      "categoryId": "thriller",
-      "durationSeconds": 0,
+      "title": "Emmadhamum",
+      "description": "A chance encounter between strangers serves as a powerful reminder that our shared humanity transcends the boundaries of religion and belief",
+      "videoUrl": "jpcau34nbb",
+      "thumbnailUrl": "https://i.ibb.co/vxxxfG26/Emmadhamum-Banner.jpg",
+      "posterUrl": "https://i.ibb.co/twFkG46R/Emmadhamum-Poster.png",
+      "categoryId": "drama",
+      "durationSeconds": 344,
       "featured": true,
       "views": 0,
       "language": "Tamil",
       "releaseYear": "2026",
-      "ageRating": "16+, U/A",
-      "director": "S Vignesh Sabari",
-      "cast": "Harish K Krish, Tamilselvan, Shiva"
+      "ageRating": "U",
+      "director": "R M Abul",
+      "cast": "Harish K Krish, Tamilselvan"
     }
   ]
 }
