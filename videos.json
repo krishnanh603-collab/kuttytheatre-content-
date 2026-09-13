@@ -52,10 +52,27 @@
       "featured": true,
       "views": 0,
       "language": "Tamil",
-      "releaseYear": "2026",
+      "releaseYear": "2021",
       "ageRating": "U",
       "director": "Harish K Krish",
       "cast": "Harish K Krish, Devi Prasad, Vinth Selvam"
+    }
+   {
+      "id": "4",
+      "title": "Mom & Son Sothanaigal - 01",
+      "description": "A humorous look at the daily dynamics between a mother and son navigating life together during the lockdown.",
+      "videoUrl": "x6l4a8thoz",
+      "thumbnailUrl": "https://i.ibb.co/N6pvRtxf/Mom-Son-1-Banner.png",
+      "posterUrl": "https://i.ibb.co/QF0Q686W/Mom-Son-1-Poster.png",
+      "categoryId": "Mom & Son Series",
+      "durationSeconds": 405,
+      "featured": true,
+      "views": 0,
+      "language": "Tamil",
+      "releaseYear": "2021",
+      "ageRating": "U",
+      "director": "Harish K Krish",
+      "cast": "Harish K Krish, Saraswathy Krishnan"
     }
   ]
 }
