@@ -146,14 +146,14 @@
       "ratingUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeXjwFbufecFiAyk3Z_J7ItucqUVzrh02Xqa26P9OrMRhnjEQ/viewform?usp=pp_url&entry.606726879=Thalapathy",
       "subtitleUrl": "https://raw.githubusercontent.com/krishnanh603-collab/kuttytheatre-content-/refs/heads/main/Thalapathy.vtt"
     },
-  {
+    {
       "id": "8",
       "title": "Enakkul Oruvan",
       "description": "A protagonist embarks on a poignant journey of self-discovery and internal reflection to uncover the deeper truths of their own identity.",
       "videoUrl": "ngog9u40pp",
       "thumbnailUrl": "https://i.ibb.co/J897x3p/Chat-GPT-Image-Sep-15-2026-10-06-31-PM.png",
       "posterUrl": "https://i.ibb.co/m5pPj0C1/Chat-GPT-Image-Sep-15-2026-10-14-56-PM.png",
-      "categoryId": "Drama",
+      "categoryId": "drama",
       "durationSeconds": 445,
       "featured": true,
       "views": 0,
@@ -165,6 +165,6 @@
       "rating": 8.1,
       "ratingUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeXjwFbufecFiAyk3Z_J7ItucqUVzrh02Xqa26P9OrMRhnjEQ/viewform?usp=pp_url&entry.606726879=Enakkul Oruvan",
       "subtitleUrl": ""
-    },
+    }
   ]
 }
